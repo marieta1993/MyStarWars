@@ -13,7 +13,7 @@ export  default  class Main extends Component{
                 <p>It uses utility classes for typography and spacing to space content out within the larger
                     container.</p>
                 <p className="lead">
-                    <a className="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+                    <a className="btn btn-primary btn-lg" href="../a" role="button">Learn more</a>
                 </p>
             </div>
 
